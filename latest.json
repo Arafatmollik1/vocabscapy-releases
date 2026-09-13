@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "versionCode": 1,
-  "apkUrl": "https://github.com/Arafatmollik1/vocabscapy-releases/releases/download/v1.1.1/VocabsCapy-1.1.1.apk",
-  "notes": "Sessions now wait for learning steps, cleaner cards, fixed scrolling.",
-  "publishedAt": "2026-09-13"
+  "apkUrl": "https://github.com/Arafatmollik1/vocabscapy-releases/releases/download/v1.2.0/VocabsCapy-1.2.0.apk",
+  "notes": "Speaker button with Finnish voice, and pictures on the cards.",
+  "publishedAt": "2026-09-14"
 }
