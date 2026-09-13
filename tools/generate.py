@@ -5,7 +5,7 @@ from diffusers import Flux2KleinPipeline
 
 src, out = sys.argv[1], sys.argv[2]
 os.makedirs(out, exist_ok=True)
-pipe = Flux2KleinPipeline.from_pretrained("black-forest-labs/FLUX.2-klein-4B", torch_dtype=torch.bfloat16).to("cuda")
+pipe = Flux2KleinPipeline.from_pretrained("black-forest-labs/FLUX.2-klein-4B", dtype=torch.bfloat16).to("cuda")
 rows = list(csv.DictReader(open(src)))
 t0 = time.time()
 for i, r in enumerate(rows, 1):
