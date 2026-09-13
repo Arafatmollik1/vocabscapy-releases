@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "versionCode": 1,
-  "apkUrl": "https://expo.dev/artifacts/eas/Y-a45kP6Ws6WXkiOCErvnk7VSH6oQwm4dy96Mx6j4rc.apk",
-  "notes": "First release.",
+  "apkUrl": "https://github.com/Arafatmollik1/vocabscapy-releases/releases/download/v1.1.0/VocabsCapy-1.1.0.apk",
+  "notes": "Better example sentences and an in-app update button.",
   "publishedAt": "2026-09-13"
 }
