@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "versionCode": 1,
-  "apkUrl": "https://github.com/Arafatmollik1/vocabscapy-releases/releases/download/v1.2.0/VocabsCapy-1.2.0.apk",
-  "notes": "Speaker button with Finnish voice, and pictures on the cards.",
+  "apkUrl": "https://github.com/Arafatmollik1/vocabscapy-releases/releases/download/v1.2.1/VocabsCapy-1.2.1.apk",
+  "notes": "Reliable daily reminders and a test-notification button.",
   "publishedAt": "2026-09-14"
 }
