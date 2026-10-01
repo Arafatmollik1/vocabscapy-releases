@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "versionCode": 1,
-  "apkUrl": "https://github.com/Arafatmollik1/vocabscapy-releases/releases/download/v1.2.1/VocabsCapy-1.2.1.apk",
-  "notes": "Reliable daily reminders and a test-notification button.",
-  "publishedAt": "2026-09-14"
+  "apkUrl": "https://github.com/Arafatmollik1/vocabscapy-releases/releases/download/v1.3.0/VocabsCapy-1.3.0.apk",
+  "notes": "Home-screen streak widget, help for the Again/Hard/Good/Easy buttons, words you add come first, and adding a word you already have is caught.",
+  "publishedAt": "2026-10-01"
 }
